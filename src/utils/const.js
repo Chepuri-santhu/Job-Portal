@@ -1,1 +1,1 @@
-export const USER_API_END_POINT = "https://job-portal-backend-pearl.vercel.app/api/v1/user";
+export const USER_API_END_POINT = "https://job-portal-backend-pearl.vercel.app/";
