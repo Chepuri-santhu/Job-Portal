@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Navbar from '../shared/Navbar';
-import { Input } from '../ui/Input';
+import { Input } from '../ui/input';
 import { Label } from '../ui/label';
 import { RadioGroup } from '../ui/radio-group';
 import { Button } from '../ui/button';
